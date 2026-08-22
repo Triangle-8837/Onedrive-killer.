@@ -1,4 +1,3 @@
-# Onedrive-killer.
 📋 Core Overview
 A lightweight, zero-dependency native Windows utility built purely in C, designed to help users easily manage OneDrive's auto-start behavior and background process status without complex configurations. The final executable is under 100KB, no extra runtime libraries or .NET frameworks are required, you can run it directly with a double-click.
 
