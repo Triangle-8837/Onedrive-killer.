@@ -26,6 +26,6 @@ OneDrivekiller is a pure C Win32 program under 100KB, no extra runtime libraries
 ## 🛠️ Build From Source
 You can compile the project manually with MinGW:
 ```bash
-git clone https://github.com/[your-username]/OneDrivekiller.git
+git clone https://github.com/[Triangle-8837]/OneDrivekiller.git
 cd OneDrivekiller
 mingw32-make
